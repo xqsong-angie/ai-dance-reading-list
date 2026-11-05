@@ -25,5 +25,6 @@ M2M
 
 ## 4. Motion Generation Public Datasets
 
-HumanML3D
+HumanML3D: github https://github.com/EricGuo5513/HumanML3D , kaggle https://www.kaggle.com/datasets/mrriandmstique/humanml3d/data
+AIST++ https://google.github.io/aistplusplus_dataset/
 
