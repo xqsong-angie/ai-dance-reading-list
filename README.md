@@ -15,6 +15,13 @@ AtomicDance(2026) https://link.springer.com/chapter/10.1007/978-3-032-37577-3_13
 T2M-GPT: 
 
 
-## 3. Motion Generation Public Datasets
+## 3. Motion to Motion
+
+MotionDiffuse
+M2M
+
+
+## 4. Motion Generation Public Datasets
 
 HumanML3D
+
