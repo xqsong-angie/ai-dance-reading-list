@@ -13,3 +13,8 @@ AtomicDance(2026) https://link.springer.com/chapter/10.1007/978-3-032-37577-3_13
 ## 2. Text to Dance Movement Generation
 
 T2M-GPT: 
+
+
+## 3. Motion Generation Public Datasets
+
+HumanML3D
