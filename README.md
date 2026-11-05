@@ -10,6 +10,8 @@ DanceConv(2022): https://ieeexplore.ieee.org/abstract/document/9762306 no public
 
 AtomicDance(2026) https://link.springer.com/chapter/10.1007/978-3-032-37577-3_13 repo: https://github.com/oceanflowlab/AtomicDance
 
+LODGE
+
 ## 2. Text to Dance Movement Generation
 
 T2M-GPT: 
