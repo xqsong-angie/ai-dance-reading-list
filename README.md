@@ -11,11 +11,12 @@
 | **LODGE** | - | — | — | - |
 | **ArtGDance** | 2026 | [Springer Link](https://link.springer.com/article/10.1007/s11042-026-21851-0) | — | - |
 | **MACE-Dance** | 2026| [ACM](https://dl.acm.org/doi/full/10.1145/3799902.3811202) | [Github](https://github.com/AMAP-ML/MACE-Dance) | - |
+| **OmniDance**|2026|[Springer Link](https://link.springer.com/chapter/10.1007/978-3-032-37369-4_31)|[Github](https://github.com/AMAP-ML/OmniDance)|-|
 ---
 
 ## 2. Text to Dance Movement Generation
 
-| Model / Work | Year | Paper / Project Link | Code / Repository | Notes |
+| Model  | Year | Paper / Project Link | Code / Repository | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | **T2M-GPT** | - | — | — | - |
 
@@ -23,7 +24,7 @@
 
 ## 3. Motion to Motion
 
-| Model / Work | Year | Paper / Project Link | Code / Repository | Notes |
+| Model | Year | Paper / Project Link | Code / Repository | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | **MotionDiffuse** | - | — | — | - |
 | **M2M** | - | — | — | - |
@@ -38,3 +39,7 @@
 | **AIST++** | [Official Project Page](https://google.github.io/aistplusplus_dataset/) | 3D dance motion dataset paired with music|
 |**FineDance**|[Github](https://li-ronghui.github.io/finedance) \| [Paper](https://ieeexplore.ieee.org/abstract/document/10377038?casa_token=3npSwKV9Qa0AAAAA:_j01N4_dxsByqWil-tarLvWDXM5S4BY71An-rz0L_4MMp3AYD96yeZH19vZJkjbGmQuDHvd7pr0) \| [Project Page](https://li-ronghui.github.io/finedance) |3D Dance Generation with multiple genres|
 
+## 5. Referenced Algorithms
+
+VQVAE (2017) https://arxiv.org/abs/1711.00937
+Project Traning
