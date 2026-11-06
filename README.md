@@ -9,6 +9,7 @@
 | **DanceConv** | 2022 | [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9762306) | — | — |
 | **AtomicDance** | 2026 | [Springer Link](https://link.springer.com/chapter/10.1007/978-3-032-37577-3_13) | [GitHub](https://github.com/oceanflowlab/AtomicDance) | - |
 | **LODGE** | - | — | — | - |
+| **ArtGDance** | 2026 | [Springer Link](https://link.springer.com/article/10.1007/s11042-026-21851-0) | — | - |
 
 ---
 
