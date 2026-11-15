@@ -12,6 +12,7 @@
 | **ArtGDance** | 2026 | [Springer Link](https://link.springer.com/article/10.1007/s11042-026-21851-0) | — | - |
 | **MACE-Dance** | 2026| [ACM](https://dl.acm.org/doi/full/10.1145/3799902.3811202) | [Github](https://github.com/AMAP-ML/MACE-Dance) | - |
 | **OmniDance**|2026|[Springer Link](https://link.springer.com/chapter/10.1007/978-3-032-37369-4_31)|[Github](https://github.com/AMAP-ML/OmniDance)|-|
+|**Wan-Dancer**|2026| [Arxiv](https://arxiv.org/pdf/2607.09581)|[Github](https://github.com/Wan-Video/Wan-Dancer)|-|
 ---
 
 ## 2. Text to Dance Movement Generation
