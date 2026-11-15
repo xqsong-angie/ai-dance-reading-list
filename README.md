@@ -39,8 +39,14 @@
 | **HumanML3D** | [GitHub Repository](https://github.com/EricGuo5513/HumanML3D) \| [Kaggle Dataset](https://www.kaggle.com/datasets/mrriandmstique/humanml3d/data) | 3D human motion-language dataset |
 | **AIST++** | [Official Project Page](https://google.github.io/aistplusplus_dataset/) | 3D dance motion dataset paired with music|
 |**FineDance**|[Github](https://li-ronghui.github.io/finedance) \| [Paper](https://ieeexplore.ieee.org/abstract/document/10377038?casa_token=3npSwKV9Qa0AAAAA:_j01N4_dxsByqWil-tarLvWDXM5S4BY71An-rz0L_4MMp3AYD96yeZH19vZJkjbGmQuDHvd7pr0) \| [Project Page](https://li-ronghui.github.io/finedance) |3D Dance Generation with multiple genres|
+|**Motion-X**| [Official Project Page](https://motion-x-dataset.github.io/)|Whole-body, including face and hand|
 
-## 5. Referenced Algorithms
+## 5. Hand Movements
+| Model | Year | Paper | Code | Dataset Availability |
+| :--- | :--- | :--- | :--- | :--- |
+
+
+## 6. Referenced Algorithms
 
 VQVAE (2017) https://arxiv.org/abs/1711.00937
 Project Traning
